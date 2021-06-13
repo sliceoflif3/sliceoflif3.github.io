@@ -1,9 +1,4 @@
 
----
-layout: post
-title: unordered_set
----
-
 
 # unordered_set
 
