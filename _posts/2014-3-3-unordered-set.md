@@ -11,7 +11,7 @@ The **unordered_set** can contain key of any type – predefined or user-defined
 
 ```c++
 unordered_set<value_type> name;
-```
+
 
 For example: 
 
